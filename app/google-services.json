@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "304929157805",
+    "project_id": "gezilecekyerlerapp",
+    "storage_bucket": "gezilecekyerlerapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304929157805:android:079ea201c99113c29c0c24",
+        "android_client_info": {
+          "package_name": "com.example.firebasegezilecekyerler"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304929157805-j308vvle100h7rhp7rv7u2hkkpih063o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_82GRkbwwvYgRUkNKYQxGialI1tMEimI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304929157805-j308vvle100h7rhp7rv7u2hkkpih063o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:304929157805:android:c84fb3be5c2418fa9c0c24",
+        "android_client_info": {
+          "package_name": "com.example.gezilecekyerlerjavaandroid"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "304929157805-j308vvle100h7rhp7rv7u2hkkpih063o.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB_82GRkbwwvYgRUkNKYQxGialI1tMEimI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "304929157805-j308vvle100h7rhp7rv7u2hkkpih063o.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
